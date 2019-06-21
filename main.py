@@ -1,3 +1,8 @@
+#coding=utf-8
+#Author:Banbu
+#Date:2019-06-21
+#Email:liamao1995@163.com
+
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
